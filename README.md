@@ -11,6 +11,8 @@ sudo pacman -S vim git
 git clone https://github.com/baky2708/dotfiles.git ~/Projects/dotfiles
 ```
 
+## Get your Keyboard!!!!
+
 ## Create folders
 ``` bash
 mkdir ~/Projects
