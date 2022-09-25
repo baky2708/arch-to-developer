@@ -1,6 +1,11 @@
 # arch-to-developer
 My archlinux system to developer
 
+## Install git
+```
+sudo pacman -S git
+```
+
 ## Create folders
 ``` bash
 mkdir ~/Projects
