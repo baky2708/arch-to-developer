@@ -21,3 +21,11 @@ mkdir ~/Projects
 
 ## KeyBoard config
 My keyboard config is a customized keyboard based in dvorak layout and modified to uso for development
+
+``` bash
+~/Projects/dotfiles/installer/installer.sh
+```
+
+## ssh
+
+## Git Config
