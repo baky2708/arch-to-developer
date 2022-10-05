@@ -29,3 +29,5 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 ## ssh
 
 ## Git Config
+
+## Install yay
