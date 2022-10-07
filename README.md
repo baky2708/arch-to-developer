@@ -31,3 +31,7 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 ## Git Config
 
 ## Install yay
+
+## Install zsh
+
+## install p10k
