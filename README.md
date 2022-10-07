@@ -34,4 +34,6 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 
 ## Install zsh
 
+## install zsh suggestions
+
 ## install p10k
