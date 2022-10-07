@@ -37,3 +37,5 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 ## install zsh suggestions
 
 ## install p10k
+
+## install polybar
