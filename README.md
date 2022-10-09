@@ -41,3 +41,11 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 ## install polybar
 
 ## install rofi
+
+## install languages
+
+- node
+- go
+- java
+- ruby
+- python
