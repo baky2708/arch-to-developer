@@ -56,3 +56,7 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 ## install neovim from source
 
 ## install packer nvim
+
+## install zoom
+
+## install slack
