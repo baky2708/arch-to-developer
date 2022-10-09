@@ -42,6 +42,8 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 
 ## install rofi
 
+## install asdf
+
 ## install languages
 
 - node
