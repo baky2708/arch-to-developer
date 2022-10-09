@@ -51,3 +51,8 @@ My keyboard config is a customized keyboard based in dvorak layout and modified 
 - java
 - ruby
 - python
+- lua
+
+## install neovim from source
+
+## install packer nvim
